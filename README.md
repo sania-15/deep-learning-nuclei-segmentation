@@ -9,13 +9,9 @@ The study evaluates segmentation quality, extracted nuclear features, statistica
 nuclear-heterogeneity-analysis/
 │── notebooks/
 
-│ └── MIAA.ipynb # Main analysis notebook
+│ └── analysis_cellpose_stardist.ipynb # Main analysis notebook
 
-│── reports/
-
-│ ├── Nuclear_Heterogeneity_Report.pdf # Final LaTeX report
-
-│ └── main.tex # LaTeX source
+│── Nuclear_Heterogeneity_Report.pdf # Final report
 
 │── data/ # (structure only, not included)
 
